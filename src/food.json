@@ -1,0 +1,576 @@
+{
+  "items":[
+    {
+      "base_price":"₹150",
+      "desc":"Paneer cubes marinated with chatpata achaari marinade, cooked to perfection in tandoor and served with mint chutney - (6 pieces)",
+      "id":200,
+      "img":"achari_paneer_tikka.jpg",
+      "name":"Achari Paneer Tikka",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹190",
+      "desc":"Our chef's special reciepe, where paneer cubes are stuffed with his special ingredients and cooked to perfection in coal powered tandoor, served with mint chutney - (6 pieces)",
+      "id":201,
+      "img":"chef_tikka.jpg",
+      "name":"Chef Special Paneer Tikka",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹180",
+      "desc":"Potato cases stuffed with flavourful paneer and veggies stuffings and baked golden in coal powered tandoor. served with mint chutney - (6 pieces)",
+      "id":202,
+      "img":"bharwan_aloo.jpg",
+      "name":"Bharwan Special Aloo",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹250",
+      "desc":"Crispy outside and soft tender prawns. Served with sauce, (6-8) pieces depending on the size.",
+      "id":203,
+      "img":"fried_prawns.jpg",
+      "name":"Golden Fried Prawns",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹260",
+      "desc":"Sliced chicken cooked with special schezwan sauce and wine",
+      "id":204,
+      "img":"slice_chicken.jpg",
+      "name":"Sliced Chicken Schezwan",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹285",
+      "desc":"A dish of roasted chicken marinated in yogurt and generously spiced, giving the meat its trademark red colour. It is named for the cylindrical clay oven in which it is cooked, a tandoor - (6 pieces)",
+      "id":205,
+      "img":"tandori_chicken.jpg",
+      "name":"Tandoori Chicken",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹300",
+      "desc":"Stuffed with fresh cream and low fat mozzarella cheese, that gives your taste buds a creamy and cheesy taste.Tossed with mint chutney, kebab masala or garam masala powder, and coriander leaves.(6 pieces)",
+      "id":206,
+      "img":"malai_chicken.jpg",
+      "name":"Chicken Malai Kebab",
+      "new_price":0,
+      "qty":0,
+      "cat":"Starter"
+    },
+    {
+      "base_price":"₹50",
+      "desc":"A simple egg & veggies roll that you can eat on the go",
+      "id":700,
+      "img":"egg_roll.jpg",
+      "name":"Egg roll",
+      "new_price":0,
+      "qty":0,
+      "cat":"Roll"
+    },
+    {
+      "base_price":"₹90",
+      "desc":"A simple and delicious of egg,veggies and chicken roll that you can eat on the go",
+      "id":701,
+      "img":"egg_chicken_roll.jpg",
+      "name":"Egg Chicken roll",
+      "new_price":0,
+      "qty":0,
+      "cat":"Roll"
+    },
+    {
+      "base_price":"₹120",
+      "desc":"A delicious wrap of chicken and veggies that you can eat on the go",
+      "id":702,
+      "img":"chicken_roll.jpg",
+      "name":"Chicken roll",
+      "new_price":0,
+      "qty":0,
+      "cat":"Roll"
+    },
+    {
+      "base_price":"₹150",
+      "desc":"A delicious wrap of egg, mutton and veggies that can water in your mouth",
+      "id":703,
+      "img":"mutton_egg_roll.jpg",
+      "name":"Mutton Egg roll",
+      "new_price":0,
+      "qty":0,
+      "cat":"Roll"
+    },
+    {
+      "base_price":"₹100",
+      "desc":"A delicious wrap of paneer and veggies that can water in your mouth",
+      "id":704,
+      "img":"paneer_roll.jpg",
+      "name":"Veg Paneer roll",
+      "new_price":0,
+      "qty":0,
+      "cat":"Roll"
+    },
+    {
+      "base_price":"₹80",
+      "desc":"A delicious wrap of different kinds of mixed veggies that can water in your mouth",
+      "id":705,
+      "img":"veg_roll.jpg",
+      "name":"Veggie roll",
+      "new_price":0,
+      "qty":0,
+      "cat":"Roll"
+    },
+    {
+      "base_price":"₹150",
+      "desc":"Rich chocolate brownie churned in almond milk with premium taste. It's sugar free, lactose free. All vegan!",
+      "id":300,
+      "img":"brownie.jpg",
+      "name":"Vegan Choco Milano Brownie",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹290",
+      "desc":"Vegan Option Available. Banana, cocoa, yoghurt, honey. A perfect blend of curd, small chunks of banana, sugar-free chocolate and sugar free. It will leave you full and free from cravings",
+      "id":301,
+      "img":"keto.jpg",
+      "name":"Sugar Free Chocolate Keto Smoothie",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹55",
+      "desc":"Sparkling and Refreshing Beverage - 500 ml",
+      "id":302,
+      "img":"pepsi.jpg",
+      "name":"Pepsi (500 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹55",
+      "desc":"Refreshing clear drink with a natural lemon flavor - 500 ml",
+      "id":303,
+      "img":"7up.png",
+      "name":"7 Up (500 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹110",
+      "desc":"Monster Energy Drink has a sweet carbonated taste with a tangy flavor of apple juice mixed with fizz - 500 ml",
+      "id":304,
+      "img":"monster.jpg",
+      "name":"Monster Energy Drink (500 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹50",
+      "desc":"Coca-Cola is a carbonated, sweetened soft drink and is the world's best-selling drink - 500 ml",
+      "id":305,
+      "img":"coke.jpg",
+      "name":"Coca-Cola Original (500 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹100",
+      "desc":"Lassi, a creamy, frothy yogurt-based drink, blended with water and various fruits or seasonings (such as salt or sugar) - 300 ml",
+      "id":306,
+      "img":"lassi.jpg",
+      "name":"Shahi Lassi (300 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹25",
+      "desc":"Chilled Mineral-based water - (500 ml)",
+      "id":307,
+      "img":"kinley.png",
+      "name":"Kinley Mineral Water (500 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Beverages"
+    },
+    {
+      "base_price":"₹190",
+      "desc":"Served with steamed basmati rice, shona moong daal with peas, crispy potato fries and dhokar dalna",
+      "id":600,
+      "img":"aloo_posto.jpg",
+      "name":"Aloo Posto Dhoka Thali",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹230",
+      "desc":"Served with steamed basmati rice, shona moong daal with peas, crispy potato fries and prawn",
+      "id":601,
+      "img":"bhuna.jpg",
+      "name":"Jumbo Prawn Malaicurry Thali ",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹330",
+      "desc":"Served with steamed basmati rice, shona moong daal with peas, crispy potato fries , prawn curry , veggie curry , mutton kosha and papad",
+      "id":602,
+      "img":"mutton_thali.jpg",
+      "name":"Mutton Kosha Thali",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹250",
+      "desc":"Served with steamed basmati rice, shona moong daal with peas, crispy potato fries, chicken curry, mishti doi and papad",
+      "id":603,
+      "img":"chicken_thali.jpg",
+      "name":"Chicken Curry Thali",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹230",
+      "desc":"Served with steamed basmati rice, shona moong daal with peas, crispy potato fries and egg curry",
+      "id":604,
+      "img":"egg_thali.jpg",
+      "name":"Egg Kosha Thali",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹690",
+      "desc":"Served with steamed basmati rice, shona moong daal with peas, crispy potato fries, Katla fish curry, Hilsa shorshe curry, chicken curry, mutton curry, brinjal pakoda and papad",
+      "id":605,
+      "img":"maharaja_thali.jpg",
+      "name":"Maharaja Bhuribhoj Thali",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹265",
+      "desc":"Served with steamed basmati rice,chole, shahi paneer, puri, dahi-boonde",
+      "id":606,
+      "img":"paneer_thali.jpg",
+      "name":"Shahi Paneer Thali",
+      "new_price":0,
+      "qty":0,
+      "cat":"Thali"
+    },
+    {
+      "base_price":"₹230",
+      "desc":"A typical curry from the Indian subcontinent consists of chicken stewed in an onion- and tomato-based sauce, flavoured with ginger, garlic, tomato puree, chilli peppers and a variety of spices, often including turmeric, cumin, coriander, cinnamon, and cardamom",
+      "id":800,
+      "img":"chicken_curry.jpg",
+      "name":"Special Chicken Curry (4 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹120",
+      "desc":"This dish mildly bitter-sweet dish is traditionally served at the beginning of a meal. The bitterness comes from bitter-melon or karela, a gourd reputed to lower blood sugar and thus helpful for diabetics",
+      "id":801,
+      "img":"shukto.jpg",
+      "name":"Shukto",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹65",
+      "desc":"Delicious steamed basmati rice",
+      "id":802,
+      "img":"basmati_rice.jpg",
+      "name":"Steamed Basmati Rice (1 plate)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹150",
+      "desc":"This Chilli chicken is sweet, spicy & slightly sour crispy appetizer made with chicken, bell peppers, garlic, chilli sauce & soya sauce",
+      "id":803,
+      "img":"chilli_chicken.jpg",
+      "name":"Chilli Chicken",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹110",
+      "desc":"A popular side dish made with boiled eggs cooked in onion tomato gravy. This punjabi style egg curry is flavorful, delicious and goes well with roti, naan, paratha or rice",
+      "id":804,
+      "img":"egg_curry.jpg",
+      "name":"Egg Curry (3 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹220",
+      "desc":"A mix of sautéed onions, tomatoes, garlic, and onion is puréed to make a flavorful sauce with a perfect balance of savory, aromatic spices. Dried spices add an unbeatable depth of flavor as the ingredients simmer together",
+      "id":805,
+      "img":"mutton_curry.jpg",
+      "name":"Spicy Mutton Curry (4 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹180",
+      "desc":"Pabda ia an Indian freshwater catfish with good market demads. This dish is prepared with speacial spices that holds the fine flesh with a soft meat texture, good taste and high nutritional value",
+      "id":806,
+      "img":"padba_curry.jpg",
+      "name":"Pabda Jhal (2 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹40",
+      "desc":"Hot roti made of wheat flour",
+      "id":807,
+      "img":"roti.jpg",
+      "name":"Roti (4 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹130",
+      "desc":"Fried rice is made of basmati rice and loaded with fresh vegetables, packed with flavors",
+      "id":808,
+      "img":"veg_fried_rice.jpg",
+      "name":"Veg Fried Rice",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹150",
+      "desc":"An easy and delicious weeknight meal loaded with healthy ingredients, pan fried spicy noodles that are topped with chicken strips and veggies",
+      "id":809,
+      "img":"chow.jpg",
+      "name":"Chicken Chowmein",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹140",
+      "desc":"Flavoured with a large assortment of spice powders & an assortment of finely cut ingredients, served Delhi-style!",
+      "id":810,
+      "img":"chole_bhature.jpg",
+      "name":"Punjabi Chola Bhatura",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹130",
+      "desc":"Stuffed dosa. The stuffing is made from boiled potatoes with a seasoning of mustard seeds and garnishing of grated coconut, coriander, and lemon juice. Served with sambar and coconut chutney",
+      "id":811,
+      "img":"dosa.jpg",
+      "name":"Masala Dosa",
+      "new_price":0,
+      "qty":0,
+      "cat":"Main Course"
+    },
+    {
+      "base_price":"₹250",
+      "desc":"Beautifully-spiced & fragrant layers of Basmati Rice centred with a tender & juicy piece of mutton, dum-cooked & served delicious!",
+      "id":100,
+      "img":"mutton_egg_biriyani.jpg",
+      "name":"Mutton Egg Biryani",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹230",
+      "desc":"House Special rice dish made with aromatic basmati rice,soft mutton and chef's special ingredients, slow cooked over a low flame to perfection",
+      "id":101,
+      "img":"mutton_biriyani.jpg",
+      "name":"Mutton Biryani",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹190",
+      "desc":"Chicken Biryani is a delicious savory rice dish that is loaded with spicy marinated chicken, caramelized onions, and flavorful saffron rice",
+      "id":102,
+      "img":"chicken_biriyani.jpg",
+      "name":"Chicken Dum Biryani",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹200",
+      "desc":"A delicious savory rice dish that is loaded with spicy marinated chicken, a piece of boiled egg, caramelized onions, and flavorful saffron rice",
+      "id":103,
+      "img":"chicken_egg_biriyani.jpg",
+      "name":"Chicken Egg Biryani",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹130",
+      "desc":"Aromatic basmati rice, layered & spiced served with everyone's favourite - the aloo!",
+      "id":104,
+      "img":"aloo_biryani.jpg",
+      "name":"Aloo Biryani",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹150",
+      "desc":"Chicken piece marinated with yoghurt and house special ingredients, shallow fried",
+      "id":105,
+      "img":"chicken_chaap.jpg",
+      "name":"Murgh Chaap",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹170",
+      "desc":"Fresh Paneer pieces marinated in freshly ground spices and layered with long grain Daawat basmati rice & Dum cooked in sealed handi",
+      "id":106,
+      "img":"paneer_biriyani.jpg",
+      "name":"Paneer Dum Biriyani",
+      "new_price":0,
+      "qty":0,
+      "cat":"Biriyani"
+    },
+    {
+      "base_price":"₹110",
+      "desc":"Gulab jamun is a beloved Indian dessert consisting of fried balls of a dough made from milk solids and semolina, soaked with an aromatic syrup spiced with green cardamom, rose water, saffron, and more - (4 pieces)",
+      "id":400,
+      "img":"jamun.jpg",
+      "name":"Hot Gulab Jamun (4 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹100",
+      "desc":"Rosogola is a South Asian syrupy dessert popular in the Indian subcontinent and regions with South Asian diaspora. It is made from ball-shaped dumplings of chhena (an Indian cottage cheese) and semolina dough, cooked in light sugar syrup made of sugar - (4 pieces)",
+      "id":401,
+      "img":"rasgul.jpg",
+      "name":"Hot Rasgulla (4 pieces)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹120",
+      "desc":"Mishti doi is a classic Bengali sweet made with milk, curd culture and jaggery or sugar - (100 gm)",
+      "id":402,
+      "img":"misti_doi.jpg",
+      "name":"Mishti Doi (100 gm)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹140",
+      "desc":"Sweetened Condensed Milk Mixed With Gobindo Bhog Rice Topped With Cashew",
+      "id":403,
+      "img":"payesh.jpg",
+      "name":"Chaler Payesh",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹270",
+      "desc":"Carefully chosen pista delectably combined with rich creamy milk and blended with irresistible ingredients makes this Indian dessert really special. Indulge in every mouthful to have a memorable experience",
+      "id":404,
+      "img":"pista.jpeg",
+      "name":"Green Pista Ice Cream (700 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹190",
+      "desc":"Scrumptious butterscotch ice cream with crunchy praline bits, real ice cream made with pure milk and natural ingredients, no harmful preservatives or chemicals",
+      "id":405,
+      "img":"butter.jpg",
+      "name":"Butterscotch Bliss Premium Handcrafted Ice Cream Tub (250 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹110",
+      "desc":"Chocolate sponge with layers of nutella, chocolate mousse, white and dark truffle",
+      "id":406,
+      "img":"pastry.jpg",
+      "name":"Krazy Tower Pastry",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹250",
+      "desc":"Milk cooked until it reduces to a thick pudding-like consistency and flavored with cardamoms, saffron, nuts and dried fruits then frozen",
+      "id":407,
+      "img":"rabri.jpg",
+      "name":"Kesaria Rabri Malai Ice Cream (500 ml)",
+      "new_price":0,
+      "qty":0,
+      "cat":"Dessert"
+    },
+    {
+      "base_price":"₹80",
+      "desc":"Mixture of various kinds of fruits, sprinkled with some salt and sugar",
+      "id":500,
+      "img":"fruit.jpg",
+      "name":"Mixed Fruit Salad",
+      "new_price":0,
+      "qty":0,
+      "cat":"Salad"
+    },
+    {
+      "base_price":"₹50",
+      "desc":"This cucumber vinegar salad has the perfect balance between sweet and sour flavors",
+      "id":501,
+      "img":"cucu.jpg",
+      "name":"Cucumber Vinegar Salad",
+      "new_price":0,
+      "qty":0,
+      "cat":"Salad"
+    }
+  ]
+}
+
+

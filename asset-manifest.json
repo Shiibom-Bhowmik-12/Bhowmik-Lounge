@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bhowmik-Lounge/static/css/main.0de03282.css",
+    "main.js": "/Bhowmik-Lounge/static/js/main.fa11006f.js",
+    "index.html": "/Bhowmik-Lounge/index.html",
+    "main.0de03282.css.map": "/Bhowmik-Lounge/static/css/main.0de03282.css.map",
+    "main.fa11006f.js.map": "/Bhowmik-Lounge/static/js/main.fa11006f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de03282.css",
+    "static/js/main.fa11006f.js"
+  ]
+}
